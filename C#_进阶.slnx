@@ -1,0 +1,22 @@
+<Solution>
+  <Project Path="1.2ArrayList练习/1.2ArrayList练习.csproj" Id="5ba16118-87bb-43a3-89d5-31a2ba456311" />
+  <Project Path="1.ArrayList/1.ArrayList的知识.csproj" Id="847b5b27-3bbe-4c45-bdea-4fad883f4e13" />
+  <Project Path="10.LinkedList双向链表/10.LinkedList双向链表.csproj" Id="d6de1900-efc2-43e6-ab3d-b5d8b90fc9da" />
+  <Project Path="12.2委托练习/12.2委托练习.csproj" Id="008a883c-8db9-48f8-a8a4-55a72adf8b3e" />
+  <Project Path="12.委托/12.委托.csproj" Id="c41367e9-4f72-47a1-b04b-dd84067dc9c5" />
+  <Project Path="2.Stack/2.Stack栈.csproj" Id="28f26032-0db3-4d91-a6c2-f055f83f48eb" />
+  <Project Path="2.Stack栈练习/2.Stack栈练习.csproj" Id="72f1b6c2-fc9f-4eb8-9f00-49ee1f4c5636" />
+  <Project Path="3.Queue队列/3.Queue队列.csproj" Id="3c862b2a-9c2e-4e22-8b99-da6bf1c486ee" />
+  <Project Path="3.Queue队列练习/3.Queue队列练习.csproj" Id="a414544f-58ff-49fe-a4e4-01c27fead590" />
+  <Project Path="4.Hashtable哈希表/4.Hashtable哈希表.csproj" Id="d9239b41-acf5-4fec-b215-9fb37a04cf90" />
+  <Project Path="4.Hashtable哈希表练习/4.Hashtable哈希表练习.csproj" Id="1230a2ae-5e28-4ca2-969b-5ae265fcf115" />
+  <Project Path="5.泛型/5.泛型.csproj" Id="a6ebda8b-bee4-4941-a516-efe35789c0a8" />
+  <Project Path="5.泛型练习/5.泛型练习.csproj" Id="c125cf6c-a5ea-44b4-a6bf-08488a7df994" />
+  <Project Path="6.泛型约束/6.泛型约束.csproj" Id="adfba071-33f9-4ac7-8d10-aaac89a3953c" />
+  <Project Path="6.泛型约束练习/6.泛型约束练习.csproj" Id="b829a698-9efb-4fd9-9efb-7ccac974bc60" />
+  <Project Path="7.1List练习，List和ArrayList的区别/7.1List练习，List和ArrayList的区别.csproj" Id="63d693af-0b4d-46d8-81d8-cea675e14378" />
+  <Project Path="7.List的本质/7.List的本质.csproj" Id="da49504f-9be7-4e41-a8d9-097446967aef" />
+  <Project Path="8.1.字典练习/8.1.字典练习.csproj" Id="0ff69c4f-fac8-4193-a719-6cbeebdae617" />
+  <Project Path="8.Dictionary字典/8.Dictionary字典.csproj" Id="713fd2bc-ed01-4eb1-a703-5a171d0baf44" />
+  <Project Path="C#_进阶/C#_进阶.csproj" Id="add4f930-da4b-4174-922a-fc476c4d8f6c" />
+</Solution>
