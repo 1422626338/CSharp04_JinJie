@@ -4,6 +4,10 @@
   <Project Path="10.LinkedList双向链表/10.LinkedList双向链表.csproj" Id="d6de1900-efc2-43e6-ab3d-b5d8b90fc9da" />
   <Project Path="12.2委托练习/12.2委托练习.csproj" Id="008a883c-8db9-48f8-a8a4-55a72adf8b3e" />
   <Project Path="12.委托/12.委托.csproj" Id="c41367e9-4f72-47a1-b04b-dd84067dc9c5" />
+  <Project Path="13.2事件练习/13.2事件练习.csproj" Id="909f97f6-5d0f-4303-a9ef-5f546cd2f4a9" />
+  <Project Path="13.事件/13.事件.csproj" Id="519b3f36-ba6b-4920-adc7-fec2c2da7fab" />
+  <Project Path="14.2匿名函数练习/14.2匿名函数练习.csproj" Id="c93dbf39-0a1b-4f06-9420-928c852cf590" />
+  <Project Path="14.匿名函数/14.匿名函数.csproj" Id="7c7e77ca-d7d4-40a1-a47f-8909524d1430" />
   <Project Path="2.Stack/2.Stack栈.csproj" Id="28f26032-0db3-4d91-a6c2-f055f83f48eb" />
   <Project Path="2.Stack栈练习/2.Stack栈练习.csproj" Id="72f1b6c2-fc9f-4eb8-9f00-49ee1f4c5636" />
   <Project Path="3.Queue队列/3.Queue队列.csproj" Id="3c862b2a-9c2e-4e22-8b99-da6bf1c486ee" />

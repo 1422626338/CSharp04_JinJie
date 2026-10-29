@@ -4,7 +4,9 @@ using System.Linq;
 using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
-
+/*委托变量 = 方法：覆盖赋值，把原来链全部清空，只保留这一个方法
+委托变量 += 方法：追加订阅，在现有链末尾加上这个方法
+委托变量 -= 方法：从链里移除第一个匹配的方法，一次只删一个*/
 namespace _12.委托
 {
 
